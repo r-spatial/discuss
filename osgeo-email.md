@@ -13,7 +13,7 @@ We would like to apply, as the 'R-Spatial' community, to become an OSGeo affilia
 
 We are a diverse group with a shared interest in developing free and open tools for the reproducible analysis of geographic data. R is a popular and rapidly growing language for statistical computing and 'data science'. It is alreay part of OSGeo ecosystem: R ships with the OSGeo Live distribution, integrates with established OSGeo projects such as [GRASS](https://grasswiki.osgeo.org/wiki/R_statistics), and (now slightly dated) tutorials listed on OSGeo's [old website](http://old.www.osgeo.org/educational_content).
 
-After a discussion on our GitHub Organisation at [github.com/r-spatial](https://github.com/r-spatial), it is clear that closer links could be mutually beneficial. Collaboration is at the heart of open source software and the R community has a long history. The history of R-GRASS bridges, for example, covers more than 10 years and goes in both directions. R interfaces enable OSGeo projects to be accessed, from the command line, to a wide range of people, as illustrated most recently by the [qgisprocess](https://github.com/paleolimbot/qgisprocess) package. Perhaps most critically, we as a community rely on the OSGeo projects GDAL and GEOS for data access and geographic operations. We would like to support the ongoing work of these vital components of the wider community that is represented by the OSGeo-affiliated conference series FOSS4G. We also anticipate benefits from being part of the wider OSGeo community and would like to be more active members.
+After a discussion on our GitHub Organisation at [github.com/r-spatial](https://github.com/r-spatial), it is clear that closer links could be mutually beneficial. Collaboration is at the heart of open source software and the R community has a long history. The history of R-GRASS bridges, for example, covers more than 10 years and goes in both directions. R interfaces enable OSGeo projects to be accessed, from the command line, to a wide range of people, as illustrated most recently by the [qgisprocess](https://github.com/paleolimbot/qgisprocess) package. Perhaps most critically, we as a community rely on the OSGeo projects GDAL, PROJ and GEOS for data access and geographic operations. We would like to support the ongoing work of these vital components of the wider community that is represented by the OSGeo-affiliated conference series FOSS4G. We also anticipate benefits from being part of the wider OSGeo community and would like to be more active members.
 
 Specifically, we would like to initiate the three-step process need to become a full OSGeo project, as outlined on the [Incubation Committee web page](https://wiki.osgeo.org/wiki/Incubation_Committee#Step_1:_Add_OSGeo_Website_Project_Page):
 
@@ -23,6 +23,5 @@ Specifically, we would like to initiate the three-step process need to become a 
 
 All the best,
 
-R-Spatial developers
+R-Spatial developers:
 
-Should I commit this as an .md document somewhere so we can track changes? Happy to send the email but equally happy for someone else to. 
