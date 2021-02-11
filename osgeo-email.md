@@ -17,7 +17,7 @@ After a discussion on our GitHub Organisation at [github.com/r-spatial](https://
 
 Specifically, we would like to initiate the three-step process need to become a full OSGeo project, as outlined on the [Incubation Committee web page](https://wiki.osgeo.org/wiki/Incubation_Committee#Step_1:_Add_OSGeo_Website_Project_Page):
 
-- We would like to create an OSGeo web page with information about key packages in the 'R-spatial stack'
+- We would like to create an OSGeo web page with information about key packages in the 'R-spatial stack', including how they relate to OSGeo projects
 - We would like to become an [OSGeo Community Project](https://wiki.osgeo.org/wiki/Incubation_Committee#Step_2:_Join_Community_Projects_Program)
 - We would like to enter the [incubation program](https://wiki.osgeo.org/wiki/Incubation_Committee#Incubator) with a view to eventually becoming a full project
 
