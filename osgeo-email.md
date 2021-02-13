@@ -19,7 +19,7 @@ Continued development and innovation in R-OSGeo links are illustrated the [qgisp
 
 'R-Spatial' can be loosely defined as the ecosystem of code, projects and people using R for working with and adding value to spatial data. A manifestation of the wider R-Spatial community is the friendly, vibrant and diverse range of voices using the [#rspatial](https://twitter.com/search?q=%23rspatial) tag on Twitter. For the purposes of OSGeo supported *software* projects however, we define R-Spatial packages as those that can be found on at https://github.com/rspatial/ (which includes key packages `raster` and `terra`) and https://github.com/r-spatial/ (which includes `sf`, `stars` and many other popular packages for working with spatial data).
 
-Specifically, we would like to initiate the three-step process need to become a full OSGeo project, as outlined on the [Incubation Committee web page](https://wiki.osgeo.org/wiki/Incubation_Committee#Step_1:_Add_OSGeo_Website_Project_Page):
+Specifically, we would like to initiate the three-step process needed to become a full OSGeo project, as outlined on the [Incubation Committee web page](https://wiki.osgeo.org/wiki/Incubation_Committee#Step_1:_Add_OSGeo_Website_Project_Page):
 
 - We would like to create an OSGeo web page with information about key packages in the 'R-spatial stack', including how they relate to OSGeo projects
 - We would like to become an [OSGeo Community Project](https://wiki.osgeo.org/wiki/Incubation_Committee#Step_2:_Join_Community_Projects_Program)
