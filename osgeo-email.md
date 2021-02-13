@@ -1,15 +1,10 @@
-First draft below (you should be able to edit the doc in the link above):
-
 # Application to become an OSGeo Community
-
 
 	send to: incubator@lists.osgeo.org
     
 Dear OSGeo Incubation Committee,
 
 We would like to apply, as the 'R-Spatial' community, to become an OSGeo affiliated organisation.
-
-<!--## About the R-spatial community-->
 
 We are a diverse group with a shared interest in developing free and open tools for the reproducible analysis of geographic data. R is a popular and rapidly growing language for statistical computing and 'data science'. It is already part of OSGeo ecosystem: R ships with the OSGeo Live distribution, integrates with established OSGeo projects such as [GRASS GIS](https://grasswiki.osgeo.org/wiki/R_statistics), and (now slightly dated) tutorials listed on OSGeo's [old website](http://old.www.osgeo.org/educational_content).
 
