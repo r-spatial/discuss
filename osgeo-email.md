@@ -27,4 +27,5 @@ Roger Bivand
 Edzer Pebesma
 Tim Appelhans
 Robert Hijmans
+Jakub Nowosad
 
