@@ -18,7 +18,6 @@ We would like to initiate the three-step process needed for R-Spatial to become 
 
 - We would like to create an OSGeo web page with information about key packages in the 'R-spatial stack', including how they relate to OSGeo projects
 - We would like to become an [OSGeo Community Project](https://wiki.osgeo.org/wiki/Incubation_Committee#Step_2:_Join_Community_Projects_Program)
-- We would like to enter the [incubation program](https://wiki.osgeo.org/wiki/Incubation_Committee#Incubator) with a view to eventually becoming a full community project
 
 All the best,
 
