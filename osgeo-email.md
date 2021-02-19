@@ -28,3 +28,4 @@ Edzer Pebesma
 Tim Appelhans
 Robert Hijmans
 Jakub Nowosad
+Andy Teucher
