@@ -28,5 +28,6 @@ Edzer Pebesma
 Tim Appelhans
 Robert Hijmans
 Jakub Nowosad
+Nick Bearman
 Emmanuel Blondel
 Andy Teucher
