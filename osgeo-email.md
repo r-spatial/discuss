@@ -34,3 +34,4 @@ Andy Teucher
 Marynia Kolak
 Timothée Giraud
 Ahmadou Dicko
+Andrea Gilardi
