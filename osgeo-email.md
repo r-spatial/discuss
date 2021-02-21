@@ -32,4 +32,5 @@ Nick Bearman
 Emmanuel Blondel
 Andy Teucher
 Marynia Kolak
+Timothée Giraud
 Ahmadou Dicko
