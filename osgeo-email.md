@@ -22,19 +22,19 @@ We would like to initiate the process needed for R-Spatial to eventually become 
 
 All the best,
 
-R-Spatial developers, including:
-Robin Lovelace
-Roger Bivand
-Edzer Pebesma
-Tim Appelhans
-Robert Hijmans
-Jakub Nowosad
-Nick Bearman
-Emmanuel Blondel
-Andy Teucher
-Marynia Kolak
-Timothée Giraud
-Ahmadou Dicko
-Andrea Gilardi
-Lorena Abad
+R-Spatial developers and contributors, including:
+Robin Lovelace,
+Roger Bivand,
+Edzer Pebesma,
+Tim Appelhans,
+Robert Hijmans,
+Jakub Nowosad,
+Nick Bearman,
+Emmanuel Blondel,
+Andy Teucher,
+Marynia Kolak,
+Timothée Giraud,
+Ahmadou Dicko,
+Andrea Gilardi,
+Lorena Abad,
 Martijn Tennekes
